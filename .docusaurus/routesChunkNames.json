@@ -249,18 +249,42 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-31f": {
+  "/docs-b9d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-d8e": {
+  "/docs-465": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-9ad": {
+  "/docs-2f6": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/connecting-calendars-video-apps/connecting-calendars-video-apps-567": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connecting-calendars-video-apps-connecting-calendars-video-appsa-30-e16"
+  },
+  "/docs/connecting-calendars-video-apps/Content-and-visual-guidelines-ca1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connecting-calendars-video-apps-content-and-visual-guidelines-083-221"
+  },
+  "/docs/connecting-calendars-video-apps/create-a-shared-mailbox-e05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connecting-calendars-video-apps-create-a-shared-mailbox-0-cc-0da"
+  },
+  "/docs/connecting-calendars-video-apps/field-library-900": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connecting-calendars-video-apps-field-libraryabc-c41"
+  },
+  "/docs/connecting-calendars-video-apps/mobile-app-sms-notification-fdd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connecting-calendars-video-apps-mobile-app-sms-notificationd-2-e-e4e"
+  },
+  "/docs/connecting-calendars-video-apps/redesigned-invite-email-397": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connecting-calendars-video-apps-redesigned-invite-email-0-ff-151"
   },
   "/docs/getting-started/Content-and-visual-guidelines-be8": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -114,16 +114,52 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '31f'),
+    component: ComponentCreator('/docs', 'b9d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd8e'),
+        component: ComponentCreator('/docs', '465'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '9ad'),
+            component: ComponentCreator('/docs', '2f6'),
             routes: [
+              {
+                path: '/docs/connecting-calendars-video-apps/connecting-calendars-video-apps',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/connecting-calendars-video-apps', '567'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/Content-and-visual-guidelines',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/Content-and-visual-guidelines', 'ca1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/create-a-shared-mailbox',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/create-a-shared-mailbox', 'e05'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/field-library',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/field-library', '900'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/mobile-app-sms-notification',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/mobile-app-sms-notification', 'fdd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/redesigned-invite-email',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/redesigned-invite-email', '397'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/getting-started/Content-and-visual-guidelines',
                 component: ComponentCreator('/docs/getting-started/Content-and-visual-guidelines', 'be8'),

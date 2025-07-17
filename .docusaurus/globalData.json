@@ -8,8 +8,38 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "getting-started/getting-started-with-hiver",
+          "mainDocId": "connecting-calendars-video-apps/connecting-calendars-video-apps",
           "docs": [
+            {
+              "id": "connecting-calendars-video-apps/connecting-calendars-video-apps",
+              "path": "/docs/connecting-calendars-video-apps/connecting-calendars-video-apps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "connecting-calendars-video-apps/Content-and-visual-guidelines",
+              "path": "/docs/connecting-calendars-video-apps/Content-and-visual-guidelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "connecting-calendars-video-apps/create-a-shared-mailbox",
+              "path": "/docs/connecting-calendars-video-apps/create-a-shared-mailbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "connecting-calendars-video-apps/field-library",
+              "path": "/docs/connecting-calendars-video-apps/field-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "connecting-calendars-video-apps/mobile-app-sms-notification",
+              "path": "/docs/connecting-calendars-video-apps/mobile-app-sms-notification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "connecting-calendars-video-apps/redesigned-invite-email",
+              "path": "/docs/connecting-calendars-video-apps/redesigned-invite-email",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "getting-started/Content-and-visual-guidelines",
               "path": "/docs/getting-started/Content-and-visual-guidelines",
@@ -45,8 +75,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/getting-started/getting-started-with-hiver",
-                "label": "Getting Started with OnceHub"
+                "path": "/docs/connecting-calendars-video-apps/connecting-calendars-video-apps",
+                "label": "Connecting Calendars and Video Apps"
               }
             }
           }

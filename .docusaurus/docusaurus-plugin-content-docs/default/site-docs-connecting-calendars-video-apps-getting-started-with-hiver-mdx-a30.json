@@ -1,0 +1,25 @@
+{
+  "id": "connecting-calendars-video-apps/connecting-calendars-video-apps",
+  "title": "Introduction to OnceHub",
+  "description": "OnceHub is a scheduling automation platform that helps individuals and teams manage their availability, automate bookings, and connect with leads or customers effortlessly.",
+  "source": "@site/docs/connecting-calendars-video-apps/getting-started-with-hiver.mdx",
+  "sourceDirName": "connecting-calendars-video-apps",
+  "slug": "/connecting-calendars-video-apps/connecting-calendars-video-apps",
+  "permalink": "/docs/connecting-calendars-video-apps/connecting-calendars-video-apps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/connecting-calendars-video-apps/getting-started-with-hiver.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "connecting-calendars-video-apps",
+    "title": "Introduction to OnceHub",
+    "hide_title": true,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Signing Up & Account Creation",
+    "permalink": "/docs/connecting-calendars-video-apps/Content-and-visual-guidelines"
+  }
+}

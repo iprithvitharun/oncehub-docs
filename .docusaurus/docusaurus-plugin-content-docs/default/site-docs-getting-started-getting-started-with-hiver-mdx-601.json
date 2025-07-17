@@ -18,6 +18,10 @@
     "hide_table_of_contents": false
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product Identification",
+    "permalink": "/docs/connecting-calendars-video-apps/redesigned-invite-email"
+  },
   "next": {
     "title": "Signing Up & Account Creation",
     "permalink": "/docs/getting-started/Content-and-visual-guidelines"
