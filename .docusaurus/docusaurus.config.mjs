@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Hiver Docs",
+  "title": "OnceHub Help Center",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "future": {
