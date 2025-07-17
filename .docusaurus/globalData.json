@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started/getting-started-with-hiver",
+          "docs": [
+            {
+              "id": "getting-started/Content-and-visual-guidelines",
+              "path": "/docs/getting-started/Content-and-visual-guidelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/create-a-shared-mailbox",
+              "path": "/docs/getting-started/create-a-shared-mailbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/getting-started-with-hiver",
+              "path": "/docs/getting-started/getting-started-with-hiver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/redesigned-invite-email",
+              "path": "/docs/getting-started/redesigned-invite-email",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/getting-started/getting-started-with-hiver",
+                "label": "Getting Started with Hiver"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

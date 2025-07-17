@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/create-a-shared-mailbox",
+  "title": "Create a Shared Mailbox",
+  "description": "A shared mailbox is like a central container for emails sent to a specific address, like support@company.com. Teammates who are added to the mailbox can see, reply to, add notes, and manage emails.",
+  "source": "@site/docs/getting-started/create-a-shared-mailbox.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/create-a-shared-mailbox",
+  "permalink": "/docs/getting-started/create-a-shared-mailbox",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/create-a-shared-mailbox.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-a-shared-mailbox",
+    "title": "Create a Shared Mailbox",
+    "hide_title": true,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Content and visual guidelines for Hiver Knowledge Base",
+    "permalink": "/docs/getting-started/Content-and-visual-guidelines"
+  },
+  "next": {
+    "title": "Redesigned invite email",
+    "permalink": "/docs/getting-started/redesigned-invite-email"
+  }
+}

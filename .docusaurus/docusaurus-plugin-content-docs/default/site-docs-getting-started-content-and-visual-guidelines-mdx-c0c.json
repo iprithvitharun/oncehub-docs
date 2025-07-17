@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/Content-and-visual-guidelines",
+  "title": "Content and visual guidelines for Hiver Knowledge Base",
+  "description": "Structure & Navigation",
+  "source": "@site/docs/getting-started/Content-and-visual-guidelines.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/Content-and-visual-guidelines",
+  "permalink": "/docs/getting-started/Content-and-visual-guidelines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/Content-and-visual-guidelines.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Content-and-visual-guidelines",
+    "title": "Content and visual guidelines for Hiver Knowledge Base",
+    "hide_title": true,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting started with Hiver for Gmail",
+    "permalink": "/docs/getting-started/getting-started-with-hiver"
+  },
+  "next": {
+    "title": "Create a Shared Mailbox",
+    "permalink": "/docs/getting-started/create-a-shared-mailbox"
+  }
+}

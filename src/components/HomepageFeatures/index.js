@@ -4,32 +4,83 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Getting Started',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Everything you need to set up your OnceHub account and begin scheduling in minutes.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Calendar & Video Conferencing Connections',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Step-by-step guides to connect your calendars and video conferencing tools for seamless scheduling.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Booking Calendars',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Learn to configure, customize, and manage your meetings with our latest scheduling solution.
+      </>
+    ),
+  },
+  {
+    title: 'Booking Pages (Legacy)',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Support and best practices for our classic booking pages and event types.
+      </>
+    ),
+  },
+  {
+    title: 'Chatbots & Routing Forms',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Automate engagement, qualification, and routing with customizable chatbots and forms.
+      </>
+    ),
+  },
+  {
+    title: 'Integrations',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Connect OnceHub with your favorite apps, CRMs, and automation tools.
+      </>
+    ),
+  },
+  {
+    title: 'User & Account Management',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Manage users, roles, security, billing, and account preferences with ease.
+      </>
+    ),
+  },
+  {
+    title: 'Reporting & Analytics',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Track bookings, monitor sources, and gain insights with powerful analytics tools.
+      </>
+    ),
+  },
+  {
+    title: 'Resources & Support',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Find definitions, video tutorials, downloads, and ways to contact our support team.
       </>
     ),
   },

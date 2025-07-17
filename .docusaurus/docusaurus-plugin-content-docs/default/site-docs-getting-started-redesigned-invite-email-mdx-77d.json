@@ -1,0 +1,25 @@
+{
+  "id": "getting-started/redesigned-invite-email",
+  "title": "Redesigned invite email",
+  "description": "| Current | Updated |",
+  "source": "@site/docs/getting-started/redesigned-invite-email.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/redesigned-invite-email",
+  "permalink": "/docs/getting-started/redesigned-invite-email",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/redesigned-invite-email.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "redesigned-invite-email",
+    "title": "Redesigned invite email",
+    "hide_title": true,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Shared Mailbox",
+    "permalink": "/docs/getting-started/create-a-shared-mailbox"
+  }
+}
