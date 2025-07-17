@@ -5,6 +5,7 @@
  */
 export default {
   "title": "OnceHub Help Center",
+  "favicon": "img/favicon.ico",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
@@ -71,7 +72,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "OnceHub Help Center",
+      "title": "OnceHub Docs",
       "logo": {
         "alt": "OnceHub Help Center Company Logo",
         "src": "img/oncehub-logo.png"
