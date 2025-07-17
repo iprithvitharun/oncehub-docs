@@ -249,17 +249,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-2a5": {
+  "/docs-31f": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-c73": {
+  "/docs-d8e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-71f": {
+  "/docs-9ad": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/getting-started/Content-and-visual-guidelines-be8": {
@@ -270,9 +270,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-getting-started-create-a-shared-mailbox-207-4b9"
   },
+  "/docs/getting-started/field-library-a1e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-mobile-app-sms-notification-9-c-2-0a4"
+  },
   "/docs/getting-started/getting-started-with-hiver-d86": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-getting-started-getting-started-with-hiver-601-6ab"
+  },
+  "/docs/getting-started/mobile-app-sms-notification-3e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-redesigned-invite-email-972-ef1"
   },
   "/docs/getting-started/redesigned-invite-email-c0f": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -1,7 +1,7 @@
 {
   "id": "getting-started/redesigned-invite-email",
-  "title": "Redesigned invite email",
-  "description": "| Current | Updated |",
+  "title": "Product Identification",
+  "description": "1. Booking Calendars (Recommended)",
   "source": "@site/docs/getting-started/redesigned-invite-email.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/redesigned-invite-email",
@@ -13,13 +13,13 @@
   "version": "current",
   "frontMatter": {
     "id": "redesigned-invite-email",
-    "title": "Redesigned invite email",
+    "ttitle": "Product Identification",
     "hide_title": true,
     "hide_table_of_contents": false
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Shared Mailbox",
-    "permalink": "/docs/getting-started/create-a-shared-mailbox"
+    "title": "Mobile App & SMS Notifications",
+    "permalink": "/docs/getting-started/mobile-app-sms-notification"
   }
 }

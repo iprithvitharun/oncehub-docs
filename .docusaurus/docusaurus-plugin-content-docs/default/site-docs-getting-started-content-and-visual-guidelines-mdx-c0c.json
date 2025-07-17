@@ -1,7 +1,7 @@
 {
   "id": "getting-started/Content-and-visual-guidelines",
-  "title": "Content and visual guidelines for Hiver Knowledge Base",
-  "description": "Structure & Navigation",
+  "title": "Signing Up & Account Creation",
+  "description": "Getting started with OnceHub begins with creating your free account.",
   "source": "@site/docs/getting-started/Content-and-visual-guidelines.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/Content-and-visual-guidelines",
@@ -13,17 +13,17 @@
   "version": "current",
   "frontMatter": {
     "id": "Content-and-visual-guidelines",
-    "title": "Content and visual guidelines for Hiver Knowledge Base",
+    "title": "Signing Up & Account Creation",
     "hide_title": true,
     "hide_table_of_contents": false
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting started with Hiver for Gmail",
+    "title": "Introduction to OnceHub",
     "permalink": "/docs/getting-started/getting-started-with-hiver"
   },
   "next": {
-    "title": "Create a Shared Mailbox",
+    "title": "Joining Your Organization’s Account",
     "permalink": "/docs/getting-started/create-a-shared-mailbox"
   }
 }

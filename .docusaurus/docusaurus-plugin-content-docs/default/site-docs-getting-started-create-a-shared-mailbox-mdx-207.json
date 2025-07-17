@@ -1,7 +1,7 @@
 {
   "id": "getting-started/create-a-shared-mailbox",
-  "title": "Create a Shared Mailbox",
-  "description": "A shared mailbox is like a central container for emails sent to a specific address, like support@company.com. Teammates who are added to the mailbox can see, reply to, add notes, and manage emails.",
+  "title": "Joining Your Organization’s Account",
+  "description": "If your team or company already uses OnceHub, you can join their organization to collaborate efficiently.",
   "source": "@site/docs/getting-started/create-a-shared-mailbox.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/create-a-shared-mailbox",
@@ -13,17 +13,17 @@
   "version": "current",
   "frontMatter": {
     "id": "create-a-shared-mailbox",
-    "title": "Create a Shared Mailbox",
-    "hide_title": true,
+    "title": "Joining Your Organization’s Account",
+    "hide_title": false,
     "hide_table_of_contents": false
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Content and visual guidelines for Hiver Knowledge Base",
+    "title": "Signing Up & Account Creation",
     "permalink": "/docs/getting-started/Content-and-visual-guidelines"
   },
   "next": {
-    "title": "Redesigned invite email",
-    "permalink": "/docs/getting-started/redesigned-invite-email"
+    "title": "Field Library Overview",
+    "permalink": "/docs/getting-started/field-library"
   }
 }

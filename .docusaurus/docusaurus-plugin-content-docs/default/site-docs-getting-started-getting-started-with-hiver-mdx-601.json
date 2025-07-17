@@ -1,7 +1,7 @@
 {
   "id": "getting-started/getting-started-with-hiver",
-  "title": "Getting started with Hiver for Gmail",
-  "description": "Hiver lets your team manage customer support emails directly from Gmail without sharing login credentials. Your teammates can see messages, reply from the shared address, assign conversations to teammates, leave notes for context, and more.",
+  "title": "Introduction to OnceHub",
+  "description": "OnceHub is a scheduling automation platform that helps individuals and teams manage their availability, automate bookings, and connect with leads or customers effortlessly.",
   "source": "@site/docs/getting-started/getting-started-with-hiver.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/getting-started-with-hiver",
@@ -13,13 +13,13 @@
   "version": "current",
   "frontMatter": {
     "id": "getting-started-with-hiver",
-    "title": "Getting started with Hiver for Gmail",
+    "title": "Introduction to OnceHub",
     "hide_title": true,
     "hide_table_of_contents": false
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Content and visual guidelines for Hiver Knowledge Base",
+    "title": "Signing Up & Account Creation",
     "permalink": "/docs/getting-started/Content-and-visual-guidelines"
   }
 }

@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '2a5'),
+    component: ComponentCreator('/docs', '31f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c73'),
+        component: ComponentCreator('/docs', 'd8e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '71f'),
+            component: ComponentCreator('/docs', '9ad'),
             routes: [
               {
                 path: '/docs/getting-started/Content-and-visual-guidelines',
@@ -137,8 +137,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/getting-started/field-library',
+                component: ComponentCreator('/docs/getting-started/field-library', 'a1e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/getting-started/getting-started-with-hiver',
                 component: ComponentCreator('/docs/getting-started/getting-started-with-hiver', 'd86'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/getting-started/mobile-app-sms-notification',
+                component: ComponentCreator('/docs/getting-started/mobile-app-sms-notification', '3e4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -21,8 +21,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "getting-started/field-library",
+              "path": "/docs/getting-started/field-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "getting-started/getting-started-with-hiver",
               "path": "/docs/getting-started/getting-started-with-hiver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/mobile-app-sms-notification",
+              "path": "/docs/getting-started/mobile-app-sms-notification",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -36,7 +46,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/docs/getting-started/getting-started-with-hiver",
-                "label": "Getting Started with Hiver"
+                "label": "Getting Started with OnceHub"
               }
             }
           }

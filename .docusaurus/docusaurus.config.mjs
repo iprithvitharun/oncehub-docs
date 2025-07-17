@@ -5,8 +5,6 @@
  */
 export default {
   "title": "OnceHub Help Center",
-  "tagline": "Dinosaurs are cool",
-  "favicon": "img/favicon.ico",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
@@ -73,10 +71,10 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Hiver Docs",
+      "title": "OnceHub Help Center",
       "logo": {
-        "alt": "Hiver Help Center Company Logo",
-        "src": "img/hiver-logo.png"
+        "alt": "OnceHub Help Center Company Logo",
+        "src": "img/oncehub-logo.png"
       },
       "items": [
         {
@@ -383,6 +381,7 @@ export default {
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
+  "tagline": "",
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {

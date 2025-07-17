@@ -11,7 +11,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OnceHub Help Center',
-  tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -81,10 +80,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Hiver Docs',
+        title: 'OnceHub Docs',
         logo: {
-          alt: 'Hiver Help Center Company Logo',
-          src: 'img/hiver-logo.png',
+          alt: 'OnceHub Help Center Company Logo',
+          src: 'img/oncehub-logo.png',
         },
         items: [
           {
