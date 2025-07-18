@@ -114,16 +114,52 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '31f'),
+    component: ComponentCreator('/docs', 'e24'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd8e'),
+        component: ComponentCreator('/docs', 'd6c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '9ad'),
+            component: ComponentCreator('/docs', 'cea'),
             routes: [
+              {
+                path: '/docs/connecting-calendars-video-apps/exchange-outlook',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/exchange-outlook', 'e17'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/google-calendar',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/google-calendar', '558'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/icloud',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/icloud', 'f9d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/o365',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/o365', '3ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/overview',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/overview', '309'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connecting-calendars-video-apps/video-setup',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/video-setup', 'bb3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/getting-started/Content-and-visual-guidelines',
                 component: ComponentCreator('/docs/getting-started/Content-and-visual-guidelines', 'be8'),
@@ -143,8 +179,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/getting-started/getting-started-with-hiver',
-                component: ComponentCreator('/docs/getting-started/getting-started-with-hiver', 'd86'),
+                path: '/docs/getting-started/introduction-to-oncehub',
+                component: ComponentCreator('/docs/getting-started/introduction-to-oncehub', '810'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

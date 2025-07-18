@@ -1,0 +1,25 @@
+{
+  "id": "getting-started/introduction-to-oncehub",
+  "title": "Introduction to OnceHub",
+  "description": "OnceHub is a scheduling automation platform that helps individuals and teams manage their availability, automate bookings, and connect with leads or customers effortlessly.",
+  "source": "@site/docs/getting-started/introduction-to-oncehub.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/introduction-to-oncehub",
+  "permalink": "/docs/getting-started/introduction-to-oncehub",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/introduction-to-oncehub.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction-to-oncehub",
+    "title": "Introduction to OnceHub",
+    "hide_title": true,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Joining Your Organization’s Account",
+    "permalink": "/docs/getting-started/create-a-shared-mailbox"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "connecting-calendars-video-apps/Content-and-visual-guidelines",
+  "title": "Signing Up & Account Creation",
+  "description": "Getting started with OnceHub begins with creating your free account.",
+  "source": "@site/docs/connecting-calendars-video-apps/Content-and-visual-guidelines.mdx",
+  "sourceDirName": "connecting-calendars-video-apps",
+  "slug": "/connecting-calendars-video-apps/Content-and-visual-guidelines",
+  "permalink": "/docs/connecting-calendars-video-apps/Content-and-visual-guidelines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/connecting-calendars-video-apps/Content-and-visual-guidelines.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Content-and-visual-guidelines",
+    "title": "Signing Up & Account Creation",
+    "hide_title": true,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to OnceHub",
+    "permalink": "/docs/connecting-calendars-video-apps/connecting-calendars-video-apps"
+  },
+  "next": {
+    "title": "Joining Your Organization’s Account",
+    "permalink": "/docs/connecting-calendars-video-apps/create-a-shared-mailbox"
+  }
+}
