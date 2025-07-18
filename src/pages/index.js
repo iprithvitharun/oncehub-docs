@@ -15,8 +15,8 @@ function HomepageHeader() {
   const docsIndex = [
     {
       title: 'Getting started with Hiver for Gmail',
-      id: 'getting-started-with-hiver',
-      url: '/docs/getting-started/getting-started-with-hiver',
+      id: 'introduction-to-oncehub',
+      url: '/docs/getting-started/introduction-to-oncehub',
       content: `Hiver lets your team manage customer support emails directly from Gmail without sharing login credentials. Your teammates can see messages, reply from the shared address, assign conversations to teammates, leave notes for context, and more. Install and set up Hiver, Create a Shared Mailbox, Import past customer emails, Add more teammates to your inbox, Organize emails with tags and note.`
     },
     {

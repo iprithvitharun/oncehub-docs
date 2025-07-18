@@ -108,7 +108,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/getting-started/getting-started-with-hiver',
+                to: '/docs/getting-started/introduction-to-oncehub',
               },
             ],
           },
