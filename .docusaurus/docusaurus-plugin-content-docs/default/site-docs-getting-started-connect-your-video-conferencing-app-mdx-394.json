@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/connect-your-video-conferencing-app",
+  "title": "Connect your video conferencing app",
+  "description": "Once your calendar is connected, the next step is to link your video conferencing app. This lets OnceHub automatically add meeting links (like Zoom or Google Meet) to your scheduled events.",
+  "source": "@site/docs/getting-started/connect-your-video-conferencing-app.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/connect-your-video-conferencing-app",
+  "permalink": "/docs/getting-started/connect-your-video-conferencing-app",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/connect-your-video-conferencing-app.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "connect-your-video-conferencing-app",
+    "title": "Connect your video conferencing app",
+    "hide_title": true,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connect your calendar",
+    "permalink": "/docs/getting-started/connect-your-calendar"
+  },
+  "next": {
+    "title": "Product Identification",
+    "permalink": "/docs/getting-started/redesigned-invite-email"
+  }
+}

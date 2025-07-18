@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e24'),
+    component: ComponentCreator('/docs', 'b62'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd6c'),
+        component: ComponentCreator('/docs', 'e7c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'cea'),
+            component: ComponentCreator('/docs', '87b'),
             routes: [
               {
                 path: '/docs/connecting-calendars-video-apps/exchange-outlook',
@@ -161,20 +161,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/getting-started/connect-your-calendar',
+                component: ComponentCreator('/docs/getting-started/connect-your-calendar', '87b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/getting-started/connect-your-video-conferencing-app',
+                component: ComponentCreator('/docs/getting-started/connect-your-video-conferencing-app', 'd7e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/getting-started/Content-and-visual-guidelines',
                 component: ComponentCreator('/docs/getting-started/Content-and-visual-guidelines', 'be8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/getting-started/create-a-shared-mailbox',
-                component: ComponentCreator('/docs/getting-started/create-a-shared-mailbox', 'fea'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/getting-started/field-library',
-                component: ComponentCreator('/docs/getting-started/field-library', 'a1e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -185,8 +185,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/getting-started/mobile-app-sms-notification',
-                component: ComponentCreator('/docs/getting-started/mobile-app-sms-notification', '3e4'),
+                path: '/docs/getting-started/join-your-existing-organization',
+                component: ComponentCreator('/docs/getting-started/join-your-existing-organization', '397'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

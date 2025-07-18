@@ -1,7 +1,7 @@
 {
   "id": "getting-started/field-library",
   "title": "Field Library Overview",
-  "description": "The Field Library in OnceHub helps you create and manage reusable fields across booking forms, chatbots, and routing forms.",
+  "description": "Now that you’ve joined your team’s OnceHub workspace, the next step is to connect your calendar. This is what lets OnceHub know when you're free — so it can automatically schedule meetings without conflicts.",
   "source": "@site/docs/getting-started/field-library.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/field-library",
@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Joining Your Organization’s Account",
-    "permalink": "/docs/getting-started/create-a-shared-mailbox"
+    "title": "Joining your organization’s account",
+    "permalink": "/docs/getting-started/joining-your-existing-organization"
   },
   "next": {
     "title": "Mobile App & SMS Notifications",

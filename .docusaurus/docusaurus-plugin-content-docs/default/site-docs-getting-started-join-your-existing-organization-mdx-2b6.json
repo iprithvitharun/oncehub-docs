@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/join-your-existing-organization",
+  "title": "Join your organization’s account",
+  "description": "If your company uses OnceHub, your admin can invite you to join their workspace. Here's how to get started in three simple steps.",
+  "source": "@site/docs/getting-started/join-your-existing-organization.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/join-your-existing-organization",
+  "permalink": "/docs/getting-started/join-your-existing-organization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/join-your-existing-organization.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "join-your-existing-organization",
+    "title": "Join your organization’s account",
+    "hide_title": false,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to OnceHub",
+    "permalink": "/docs/getting-started/introduction-to-oncehub"
+  },
+  "next": {
+    "title": "Connect your calendar",
+    "permalink": "/docs/getting-started/connect-your-calendar"
+  }
+}

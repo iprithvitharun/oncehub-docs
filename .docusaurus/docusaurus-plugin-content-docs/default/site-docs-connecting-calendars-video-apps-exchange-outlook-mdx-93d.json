@@ -19,5 +19,9 @@
   "previous": {
     "title": "Google Calendar Integration",
     "permalink": "/docs/connecting-calendars-video-apps/google-calendar"
+  },
+  "next": {
+    "title": "Overview: Connecting Calendars & Video Apps",
+    "permalink": "/docs/connecting-calendars-video-apps/overview"
   }
 }

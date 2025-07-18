@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/connect-your-calendar",
+  "title": "Connect your calendar",
+  "description": "Now that you're in your or organization's workspace, the next step is to connect your calendar. This is what lets OnceHub know when you're free so it can automatically find time and schedule meetings without conflicts.",
+  "source": "@site/docs/getting-started/connect-your-calendar.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/connect-your-calendar",
+  "permalink": "/docs/getting-started/connect-your-calendar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/connect-your-calendar.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "connect-your-calendar",
+    "title": "Connect your calendar",
+    "hide_title": true,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Join your organization’s account",
+    "permalink": "/docs/getting-started/join-your-existing-organization"
+  },
+  "next": {
+    "title": "Connect your video conferencing app",
+    "permalink": "/docs/getting-started/connect-your-video-conferencing-app"
+  }
+}

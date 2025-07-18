@@ -8,9 +8,9 @@ const sidebars = {
       label: 'Getting Started with OnceHub',
       items: [
         'getting-started/introduction-to-oncehub',
-        'getting-started/create-a-shared-mailbox',
-        'getting-started/field-library',
-        'getting-started/mobile-app-sms-notification',
+        'getting-started/join-your-existing-organization',
+        'getting-started/connect-your-calendar',
+        'getting-started/connect-your-video-conferencing-app',
         'getting-started/redesigned-invite-email',
         'getting-started/Content-and-visual-guidelines',
       ],
@@ -18,6 +18,18 @@ const sidebars = {
     {
       type: 'category',
       label: 'Connecting Calendars and Video Apps',
+      items: [
+        'connecting-calendars-video-apps/overview',
+        'connecting-calendars-video-apps/video-setup',
+        'connecting-calendars-video-apps/o365',
+        'connecting-calendars-video-apps/icloud',
+        'connecting-calendars-video-apps/google-calendar',
+        'connecting-calendars-video-apps/exchange-outlook',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Booking Calendars',
       items: [
         'connecting-calendars-video-apps/overview',
         'connecting-calendars-video-apps/video-setup',

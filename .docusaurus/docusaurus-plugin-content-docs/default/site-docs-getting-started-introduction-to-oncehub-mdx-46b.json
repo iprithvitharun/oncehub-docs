@@ -1,7 +1,7 @@
 {
   "id": "getting-started/introduction-to-oncehub",
   "title": "Introduction to OnceHub",
-  "description": "OnceHub is a scheduling automation platform that helps individuals and teams manage their availability, automate bookings, and connect with leads or customers effortlessly.",
+  "description": "OnceHub is your personal scheduling assistant. Instead of going back and forth over email to find a meeting time, OnceHub lets you share your availability and get booked instantly — on your terms.",
   "source": "@site/docs/getting-started/introduction-to-oncehub.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/introduction-to-oncehub",
@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Joining Your Organization’s Account",
-    "permalink": "/docs/getting-started/create-a-shared-mailbox"
+    "title": "Join your organization’s account",
+    "permalink": "/docs/getting-started/join-your-existing-organization"
   }
 }

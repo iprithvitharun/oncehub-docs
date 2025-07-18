@@ -1,7 +1,7 @@
 {
   "id": "getting-started/create-a-shared-mailbox",
-  "title": "Joining Your Organization’s Account",
-  "description": "If your team or company already uses OnceHub, you can join their organization to collaborate efficiently.",
+  "title": "Joining Your organization’s account",
+  "description": "If your company already uses OnceHub, you don’t need to sign up from scratch. You can ask your admin to send an invite to join them.",
   "source": "@site/docs/getting-started/create-a-shared-mailbox.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/create-a-shared-mailbox",
@@ -13,7 +13,7 @@
   "version": "current",
   "frontMatter": {
     "id": "create-a-shared-mailbox",
-    "title": "Joining Your Organization’s Account",
+    "title": "Joining Your organization’s account",
     "hide_title": false,
     "hide_table_of_contents": false
   },
