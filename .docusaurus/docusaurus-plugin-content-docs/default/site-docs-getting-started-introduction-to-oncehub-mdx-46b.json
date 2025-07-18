@@ -1,7 +1,7 @@
 {
   "id": "getting-started/introduction-to-oncehub",
   "title": "Introduction to OnceHub",
-  "description": "OnceHub is your personal scheduling assistant. Instead of going back and forth over email to find a meeting time, OnceHub lets you share your availability and get booked instantly — on your terms.",
+  "description": "OnceHub is your personal scheduling assistant. Instead of going back and forth over email to find a meeting time, OnceHub lets you share your availability and get booked instantly.",
   "source": "@site/docs/getting-started/introduction-to-oncehub.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/introduction-to-oncehub",
