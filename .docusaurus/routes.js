@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b62'),
+    component: ComponentCreator('/docs', 'fe9'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e7c'),
+        component: ComponentCreator('/docs', 'd9f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '87b'),
+            component: ComponentCreator('/docs', 'd1e'),
             routes: [
               {
                 path: '/docs/connecting-calendars-video-apps/exchange-outlook',
@@ -173,12 +173,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/getting-started/Content-and-visual-guidelines',
-                component: ComponentCreator('/docs/getting-started/Content-and-visual-guidelines', 'be8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/getting-started/introduction-to-oncehub',
                 component: ComponentCreator('/docs/getting-started/introduction-to-oncehub', '810'),
                 exact: true,
@@ -191,8 +185,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/getting-started/redesigned-invite-email',
-                component: ComponentCreator('/docs/getting-started/redesigned-invite-email', 'c0f'),
+                path: '/docs/getting-started/use-oncehub-on-mobile',
+                component: ComponentCreator('/docs/getting-started/use-oncehub-on-mobile', '5d5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

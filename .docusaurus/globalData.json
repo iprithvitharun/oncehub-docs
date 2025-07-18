@@ -51,11 +51,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "getting-started/Content-and-visual-guidelines",
-              "path": "/docs/getting-started/Content-and-visual-guidelines",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "getting-started/introduction-to-oncehub",
               "path": "/docs/getting-started/introduction-to-oncehub",
               "sidebar": "tutorialSidebar"
@@ -66,8 +61,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "getting-started/redesigned-invite-email",
-              "path": "/docs/getting-started/redesigned-invite-email",
+              "id": "getting-started/use-oncehub-on-mobile",
+              "path": "/docs/getting-started/use-oncehub-on-mobile",
               "sidebar": "tutorialSidebar"
             }
           ],

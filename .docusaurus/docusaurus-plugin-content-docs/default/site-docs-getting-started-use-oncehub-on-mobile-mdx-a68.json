@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/use-oncehub-on-mobile",
+  "title": "Use OnceHub on mobile",
+  "description": "Now that your calendar and video tools are connected, you’re ready to manage bookings on the go.",
+  "source": "@site/docs/getting-started/use-oncehub-on-mobile.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/use-oncehub-on-mobile",
+  "permalink": "/docs/getting-started/use-oncehub-on-mobile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/use-oncehub-on-mobile.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "use-oncehub-on-mobile",
+    "ttitle": "Use OnceHub on Mobile",
+    "hide_title": true,
+    "hide_table_of_contents": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connect your video conferencing app",
+    "permalink": "/docs/getting-started/connect-your-video-conferencing-app"
+  },
+  "next": {
+    "title": "Overview: Connecting Calendars & Video Apps",
+    "permalink": "/docs/connecting-calendars-video-apps/overview"
+  }
+}

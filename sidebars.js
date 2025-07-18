@@ -11,8 +11,7 @@ const sidebars = {
         'getting-started/join-your-existing-organization',
         'getting-started/connect-your-calendar',
         'getting-started/connect-your-video-conferencing-app',
-        'getting-started/redesigned-invite-email',
-        'getting-started/Content-and-visual-guidelines',
+        'getting-started/use-oncehub-on-mobile',
       ],
     },
     {
