@@ -8,36 +8,36 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "connecting-calendars-video-apps/connecting-calendars-video-apps",
+          "mainDocId": "getting-started/introduction-to-oncehub",
           "docs": [
             {
-              "id": "connecting-calendars-video-apps/connecting-calendars-video-apps",
-              "path": "/docs/connecting-calendars-video-apps/connecting-calendars-video-apps",
+              "id": "connecting-calendars-video-apps/exchange-outlook",
+              "path": "/docs/connecting-calendars-video-apps/exchange-outlook",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "connecting-calendars-video-apps/Content-and-visual-guidelines",
-              "path": "/docs/connecting-calendars-video-apps/Content-and-visual-guidelines",
+              "id": "connecting-calendars-video-apps/google-calendar",
+              "path": "/docs/connecting-calendars-video-apps/google-calendar",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "connecting-calendars-video-apps/create-a-shared-mailbox",
-              "path": "/docs/connecting-calendars-video-apps/create-a-shared-mailbox",
+              "id": "connecting-calendars-video-apps/icloud",
+              "path": "/docs/connecting-calendars-video-apps/icloud",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "connecting-calendars-video-apps/field-library",
-              "path": "/docs/connecting-calendars-video-apps/field-library",
+              "id": "connecting-calendars-video-apps/o365",
+              "path": "/docs/connecting-calendars-video-apps/o365",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "connecting-calendars-video-apps/mobile-app-sms-notification",
-              "path": "/docs/connecting-calendars-video-apps/mobile-app-sms-notification",
+              "id": "connecting-calendars-video-apps/overview",
+              "path": "/docs/connecting-calendars-video-apps/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "connecting-calendars-video-apps/redesigned-invite-email",
-              "path": "/docs/connecting-calendars-video-apps/redesigned-invite-email",
+              "id": "connecting-calendars-video-apps/video-setup",
+              "path": "/docs/connecting-calendars-video-apps/video-setup",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -56,8 +56,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "getting-started/getting-started-with-hiver",
-              "path": "/docs/getting-started/getting-started-with-hiver",
+              "id": "getting-started/introduction-to-oncehub",
+              "path": "/docs/getting-started/introduction-to-oncehub",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -75,8 +75,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/connecting-calendars-video-apps/connecting-calendars-video-apps",
-                "label": "Connecting Calendars and Video Apps"
+                "path": "/docs/getting-started/introduction-to-oncehub",
+                "label": "getting-started/introduction-to-oncehub"
               }
             }
           }

@@ -114,49 +114,49 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b9d'),
+    component: ComponentCreator('/docs', 'e24'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '465'),
+        component: ComponentCreator('/docs', 'd6c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2f6'),
+            component: ComponentCreator('/docs', 'cea'),
             routes: [
               {
-                path: '/docs/connecting-calendars-video-apps/connecting-calendars-video-apps',
-                component: ComponentCreator('/docs/connecting-calendars-video-apps/connecting-calendars-video-apps', '567'),
+                path: '/docs/connecting-calendars-video-apps/exchange-outlook',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/exchange-outlook', 'e17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/connecting-calendars-video-apps/Content-and-visual-guidelines',
-                component: ComponentCreator('/docs/connecting-calendars-video-apps/Content-and-visual-guidelines', 'ca1'),
+                path: '/docs/connecting-calendars-video-apps/google-calendar',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/google-calendar', '558'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/connecting-calendars-video-apps/create-a-shared-mailbox',
-                component: ComponentCreator('/docs/connecting-calendars-video-apps/create-a-shared-mailbox', 'e05'),
+                path: '/docs/connecting-calendars-video-apps/icloud',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/icloud', 'f9d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/connecting-calendars-video-apps/field-library',
-                component: ComponentCreator('/docs/connecting-calendars-video-apps/field-library', '900'),
+                path: '/docs/connecting-calendars-video-apps/o365',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/o365', '3ec'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/connecting-calendars-video-apps/mobile-app-sms-notification',
-                component: ComponentCreator('/docs/connecting-calendars-video-apps/mobile-app-sms-notification', 'fdd'),
+                path: '/docs/connecting-calendars-video-apps/overview',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/overview', '309'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/connecting-calendars-video-apps/redesigned-invite-email',
-                component: ComponentCreator('/docs/connecting-calendars-video-apps/redesigned-invite-email', '397'),
+                path: '/docs/connecting-calendars-video-apps/video-setup',
+                component: ComponentCreator('/docs/connecting-calendars-video-apps/video-setup', 'bb3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -179,8 +179,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/getting-started/getting-started-with-hiver',
-                component: ComponentCreator('/docs/getting-started/getting-started-with-hiver', 'd86'),
+                path: '/docs/getting-started/introduction-to-oncehub',
+                component: ComponentCreator('/docs/getting-started/introduction-to-oncehub', '810'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

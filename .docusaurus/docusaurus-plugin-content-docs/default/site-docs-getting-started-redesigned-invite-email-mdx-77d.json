@@ -21,5 +21,9 @@
   "previous": {
     "title": "Mobile App & SMS Notifications",
     "permalink": "/docs/getting-started/mobile-app-sms-notification"
+  },
+  "next": {
+    "title": "Signing Up & Account Creation",
+    "permalink": "/docs/getting-started/Content-and-visual-guidelines"
   }
 }

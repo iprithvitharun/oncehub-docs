@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction to OnceHub",
-    "permalink": "/docs/getting-started/getting-started-with-hiver"
+    "title": "Product Identification",
+    "permalink": "/docs/getting-started/redesigned-invite-email"
   },
   "next": {
-    "title": "Joining Your Organization’s Account",
-    "permalink": "/docs/getting-started/create-a-shared-mailbox"
+    "title": "Overview: Connecting Calendars & Video Apps",
+    "permalink": "/docs/connecting-calendars-video-apps/overview"
   }
 }
